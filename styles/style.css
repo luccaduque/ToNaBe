@@ -64,3 +64,16 @@ footer {
   height: auto;
   
 }
+
+.btn {
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn.ativo {
+  background-color: #ddd;
+  color: #090909;
+  font-weight: bold;
+}
