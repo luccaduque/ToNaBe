@@ -1,4 +1,4 @@
-Projeto <b>ToNaBê Tabacaria e Headshop</b><br><br>
+Projeto <b>ToNaBê Tabacaria e Headshops</b><br><br>
 <b>By Lucca Duque, Vinicius Lucinari, Victor Duarte e Marcos Emerick.</b>
 <br>
 
